@@ -1,4 +1,5 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk"
+	this should fail
   <PropertyGroup>
     <Description>Raven.Server is the database server for RavenDB</Description>
     <Authors>Hibernating Rhinos</Authors>
