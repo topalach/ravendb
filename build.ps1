@@ -175,4 +175,4 @@ if ($buildType -eq 'stable') {
     BumpVersion $PROJECT_DIR $versionObj.VersionPrefix $versionObj.BuildType $DryRunVersionBump
 }
 
-# this is PR #10 - approach no. 43
+# this is PR #10 - approach no. 44
