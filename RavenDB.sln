@@ -15,25 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{764C36EA-8
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "bench", "bench", "{C3388268-F662-4D76-A25D-FC4F31CE6AA1}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tools", "tools", "{FAAED88A-1C25-4853-9A1B-C41BCF9BED1F}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Voron", "src\Voron\Voron.csproj", "{DC9C8F92-92F6-4C44-BBEA-39CF5D68FB13}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sparrow", "src\Sparrow\Sparrow.csproj", "{6D5528D1-B2DD-484B-8606-91D68E065659}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Voron.Benchmark", "bench\Voron.Benchmark\Voron.Benchmark.csproj", "{643C979C-2022-4F15-9933-893EEC2CDB05}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Raven.Client", "src\Raven.Client\Raven.Client.csproj", "{F7A39761-E538-447A-8475-EC57975E54CE}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Raven.Server", "src\Raven.Server\Raven.Server.csproj", "{BE39FC8A-4668-43A0-972C-73827DE07CC1}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SlowTests", "test\SlowTests\SlowTests.csproj", "{8CA165A3-5124-4634-9F42-A7B216969380}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FastTests", "test\FastTests\FastTests.csproj", "{F116CB0A-1A37-4099-9ADF-874F0EC39295}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Raven.Studio", "src\Raven.Studio\Raven.Studio.csproj", "{3417A612-A817-4700-BE18-4E87CE9CAA3E}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Subscriptions.Benchmark", "bench\Subscriptions.Benchmark\Subscriptions.Benchmark.csproj", "{D3054BBE-45D2-406D-BE83-0C5AB2DB80E8}"
+Project("{2150E333-"Subscriptions.Benchmark", "bench\Subscriptions.Benchmark\Subscriptions.Benchmark.csproj", "{D3054BBE-45D2-406D-BE83-0C5AB2DB80E8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BulkInsert.Benchmark", "bench\BulkInsert.Benchmark\BulkInsert.Benchmark.csproj", "{447C3359-4A9D-4AAD-AA76-6AD3D181D202}"
 EndProject
@@ -46,12 +28,7 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypingsGenerator", "tools\TypingsGenerator\TypingsGenerator.csproj", "{5A0A0B4D-4E43-4F0B-B2CD-E985FAB7B01C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Studio", "test\Studio\Studio.csproj", "{434A9896-A7F8-4739-8491-8269C00115AD}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tryouts", "test\Tryouts\Tryouts.csproj", "{56D159AD-EE71-45EC-8CF0-A5D642C41B2D}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Raven.Traffic", "tools\Raven.Traffic\Raven.Traffic.csproj", "{EF58FEBA-36A3-4829-9073-DB1F0CE5396A}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Voron.Recovery", "tools\Voron.Recovery\Voron.Recovery.csproj", "{5885A9D7-FC66-4486-ACFF-2F882A3DD0E5}"
+EndProjectoron.Recovery", "tools\Voron.Recovery\Voron.Recovery.csproj", "{5885A9D7-FC66-4486-ACFF-2F882A3DD0E5}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StressTests", "test\StressTests\StressTests.csproj", "{D8AB200A-6DF6-442E-85E0-9A906E0F7521}"
 EndProject
