@@ -19,6 +19,7 @@ namespace Raven.Server
 
         public static int Main(string[] args)
         {
+            compilation fail insert here
             string[] configurationArgs;
             try
             {
